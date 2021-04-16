@@ -1,0 +1,24 @@
+body {
+	background-color:beige;
+	color: rgb(30, 30, 30); 
+	font-weight: bolder;
+	font-size: 100;
+	font-family: helvetica;
+
+}
+	h1 {
+  color: blueviolet;
+	font-size:xx-large;
+	font-family:emoji;
+	font-weight: bold;
+}
+
+	h2 {
+  color: blue;
+	font-size: x-large;
+	font-family: Helvetica;
+}
+a{ text-decoration: none;
+	color: blue;
+ }
+a:hover{ color: aqua; }
